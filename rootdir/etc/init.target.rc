@@ -1,0 +1,3 @@
+on boot
+    # DT2W
+    write /proc/gesture/onoff 1
