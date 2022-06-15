@@ -16,5 +16,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_fiji-userdebug
-add_lunch_combo omni_fiji-eng
+add_lunch_combo lineage_fiji-userdebug
+add_lunch_combo lineage_fiji-eng
+add_lunch_combo lineage_fiji-user
